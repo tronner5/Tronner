@@ -1,0 +1,80 @@
+2022-01-18 16:33:19,350 [main] INFO stepDefinations.a_SignInDetailsTC - Driver is Initialized and Url is Opened
+2022-01-18 16:33:19,823 [main] INFO stepDefinations.a_SignInDetailsTC - Login Details Filled
+2022-01-18 16:33:20,182 [main] WARN stepDefinations.a_SignInDetailsTC - Your email or password is wrong.
+2022-01-18 16:33:20,465 [main] INFO stepDefinations.a_SignInDetailsTC - Driver is Closed For a_SignInDetailsTC TestCase
+2022-01-18 16:33:25,544 [main] INFO stepDefinations.a_SignInDetailsTC - Driver is Initialized and Url is Opened
+2022-01-18 16:33:25,990 [main] INFO stepDefinations.a_SignInDetailsTC - Login Details Filled
+2022-01-18 16:33:26,403 [main] WARN stepDefinations.a_SignInDetailsTC - Your email or password is wrong.
+2022-01-18 16:33:26,718 [main] INFO stepDefinations.a_SignInDetailsTC - Driver is Closed For a_SignInDetailsTC TestCase
+2022-01-18 16:33:31,372 [main] INFO stepDefinations.b_OutstationCarBookTC - Url Opened Successfully
+2022-01-18 16:33:31,542 [main] INFO stepDefinations.b_OutstationCarBookTC - RoundTrip Check Box checked
+2022-01-18 16:33:31,728 [main] INFO stepDefinations.b_OutstationCarBookTC - From City Data is read from Excel File
+2022-01-18 16:33:34,023 [main] INFO stepDefinations.b_OutstationCarBookTC - To City Data is read from Excel File
+2022-01-18 16:33:37,217 [main] INFO stepDefinations.b_OutstationCarBookTC - PickUp Time is selected
+2022-01-18 16:33:37,460 [main] INFO stepDefinations.b_OutstationCarBookTC - Car details Summited Successfully
+2022-01-18 16:33:38,235 [main] INFO stepDefinations.b_OutstationCarBookTC - Car selected sucessfully
+2022-01-18 16:33:38,607 [main] INFO stepDefinations.b_OutstationCarBookTC - Driver is Closed For b_OutstationCarBookTC TestCase
+2022-01-18 16:33:43,108 [main] INFO stepDefinations.c_LocalBookingTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:33:43,250 [main] INFO stepDefinations.c_LocalBookingTC - Local Cab selected Successfully
+2022-01-18 16:33:43,346 [main] INFO stepDefinations.c_LocalBookingTC - From City Name is read from excel Sheet
+2022-01-18 16:33:46,726 [main] INFO stepDefinations.c_LocalBookingTC - PickUp Date is selected Successfully
+2022-01-18 16:33:47,177 [main] INFO stepDefinations.c_LocalBookingTC - Pickup Time is Selected Successfully
+2022-01-18 16:33:47,372 [main] INFO stepDefinations.c_LocalBookingTC - Details Summited Sucessfully
+2022-01-18 16:33:48,064 [main] INFO stepDefinations.c_LocalBookingTC - Hour per KM Changed
+2022-01-18 16:33:48,455 [main] INFO stepDefinations.c_LocalBookingTC - Car is selected Successfully
+2022-01-18 16:33:48,525 [main] INFO stepDefinations.c_LocalBookingTC - Title is Validated Successfully
+2022-01-18 16:33:48,848 [main] INFO stepDefinations.c_LocalBookingTC - Driver is Closed For c_LocalBookingTC TestCase
+2022-01-18 16:33:54,008 [main] INFO stepDefinations.d_AirportCarBookTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:33:54,099 [main] INFO stepDefinations.d_AirportCarBookTC - Airport Box is selcted
+2022-01-18 16:33:54,252 [main] INFO stepDefinations.d_AirportCarBookTC - From City Name is read from excel Sheet
+2022-01-18 16:33:58,684 [main] INFO stepDefinations.d_AirportCarBookTC - PickUp Location is Selected
+2022-01-18 16:34:05,863 [main] INFO stepDefinations.d_AirportCarBookTC - Pickup Time is Selected Successfully
+2022-01-18 16:34:08,189 [main] INFO stepDefinations.d_AirportCarBookTC - Details Summited Sucessfully
+2022-01-18 16:34:08,842 [main] INFO stepDefinations.d_AirportCarBookTC - Car is selected Successfully
+2022-01-18 16:34:09,345 [main] INFO stepDefinations.d_AirportCarBookTC - Login Details Filled
+2022-01-18 16:34:09,345 [main] ERROR stepDefinations.d_AirportCarBookTC - 1234567890  Wrong Phone number is summited successfully
+2022-01-18 16:34:09,432 [main] INFO stepDefinations.d_AirportCarBookTC - Whatsapp CheckBox UnChecked
+2022-01-18 16:34:09,516 [main] INFO stepDefinations.d_AirportCarBookTC - Details Summited Successfully
+2022-01-18 16:34:11,496 [main] INFO stepDefinations.d_AirportCarBookTC - Driver is Closed For d_AirportCarBookTC TestCase
+2022-01-18 16:34:16,540 [main] INFO stepDefinations.d_AirportCarBookTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:34:16,625 [main] INFO stepDefinations.d_AirportCarBookTC - Airport Box is selcted
+2022-01-18 16:34:16,745 [main] INFO stepDefinations.d_AirportCarBookTC - From City Name is read from excel Sheet
+2022-01-18 16:34:21,356 [main] INFO stepDefinations.d_AirportCarBookTC - PickUp Location is Selected
+2022-01-18 16:34:28,644 [main] INFO stepDefinations.d_AirportCarBookTC - Pickup Time is Selected Successfully
+2022-01-18 16:34:31,165 [main] INFO stepDefinations.d_AirportCarBookTC - Details Summited Sucessfully
+2022-01-18 16:34:31,914 [main] INFO stepDefinations.d_AirportCarBookTC - Car is selected Successfully
+2022-01-18 16:34:32,579 [main] INFO stepDefinations.d_AirportCarBookTC - Login Details Filled
+2022-01-18 16:34:32,580 [main] ERROR stepDefinations.d_AirportCarBookTC - 8365938727  Wrong Phone number is summited successfully
+2022-01-18 16:34:32,667 [main] INFO stepDefinations.d_AirportCarBookTC - Whatsapp CheckBox UnChecked
+2022-01-18 16:34:32,778 [main] INFO stepDefinations.d_AirportCarBookTC - Details Summited Successfully
+2022-01-18 16:34:34,892 [main] INFO stepDefinations.d_AirportCarBookTC - Driver is Closed For d_AirportCarBookTC TestCase
+2022-01-18 16:34:39,288 [main] INFO stepDefinations.e_FeaturedInTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:34:39,426 [main] INFO stepDefinations.e_FeaturedInTC - Indian Express Icon is selcted
+2022-01-18 16:35:52,404 [main] INFO stepDefinations.e_FeaturedInTC - Page Heading varified
+2022-01-18 16:35:52,993 [main] INFO stepDefinations.e_FeaturedInTC - Driver is Closed For e_FeaturedInTC TestCase
+2022-01-18 16:35:57,782 [main] INFO stepDefinations.f_AboutUsTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:35:57,888 [main] INFO stepDefinations.f_AboutUsTC - About us is selcted
+2022-01-18 16:35:59,585 [main] INFO stepDefinations.f_AboutUsTC - CEO Name is Varified Successfully
+2022-01-18 16:35:59,910 [main] INFO stepDefinations.f_AboutUsTC - Driver is Closed For f_AboutUsTC TestCase
+2022-01-18 16:36:05,064 [main] INFO stepDefinations.g_ServiceOneWayCarTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:36:05,172 [main] INFO stepDefinations.g_ServiceOneWayCarTC - Airport Box is selcted
+2022-01-18 16:36:10,429 [main] INFO stepDefinations.g_ServiceOneWayCarTC - The Trip route is Selected
+2022-01-18 16:36:13,456 [main] INFO stepDefinations.g_ServiceOneWayCarTC - Window is switched
+2022-01-18 16:36:13,506 [main] INFO stepDefinations.g_ServiceOneWayCarTC - Trip Route Varified Successfully
+2022-01-18 16:36:13,883 [main] INFO stepDefinations.g_ServiceOneWayCarTC - Driver is Closed For g_ServiceOneWayCarTC TestCase
+2022-01-18 16:36:18,564 [main] INFO stepDefinations.h_ContactUsDetailsTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:36:18,783 [main] INFO stepDefinations.h_ContactUsDetailsTC - Window is Switched
+2022-01-18 16:36:22,517 [main] INFO stepDefinations.h_ContactUsDetailsTC - Mail ID is printed Successfully
+2022-01-18 16:36:22,703 [main] INFO stepDefinations.h_ContactUsDetailsTC - Phone Number is printed Successfully
+2022-01-18 16:36:22,760 [main] INFO stepDefinations.h_ContactUsDetailsTC - Address is printed Successfully
+2022-01-18 16:36:23,182 [main] INFO stepDefinations.h_ContactUsDetailsTC - Driver is Closed For h_ContactUsDetailsTC TestCase
+2022-01-18 16:36:28,710 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:36:28,819 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Blogger Icon is clicked Successfully
+2022-01-18 16:36:36,041 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Travel guide is Selected
+2022-01-18 16:36:39,973 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Pondicherry Blog is Selected
+2022-01-18 16:36:40,461 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Driver is Closed For i_SocialBloggerHandleTC TestCase
+2022-01-18 16:36:44,335 [main] INFO stepDefinations.j_CarRentalInCityBarTC - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:36:44,438 [main] INFO stepDefinations.j_CarRentalInCityBarTC - City Location Option is Selected
+2022-01-18 16:36:46,511 [main] INFO stepDefinations.j_CarRentalInCityBarTC - City is Selected
+2022-01-18 16:36:46,606 [main] INFO stepDefinations.j_CarRentalInCityBarTC - Travel Guide Option is Selected
+2022-01-18 16:36:47,040 [main] INFO stepDefinations.i_SocialBloggerHandleTC - Driver is Closed For j_CarRentalInCityBarTC TestCase

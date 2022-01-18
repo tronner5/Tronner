@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+     <listener class-name="Resources.ExtentReporterNG"/>
+     
+</listeners>
+
+  <test  name="Ruuning StepDefination By BDD">
+    <classes>
+      <class name="cucumberOption.TestRunnerTestng"/> 
+    </classes>
+  </test> 
+</suite> 
