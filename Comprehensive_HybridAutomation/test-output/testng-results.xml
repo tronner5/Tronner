@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-18T16:22:09 IST" name="Suite" finished-at="2022-01-18T16:25:25 IST" duration-ms="196523">
+    <groups>
+    </groups>
+    <test started-at="2022-01-18T16:22:09 IST" name="Sign In With Wrong Details" finished-at="2022-01-18T16:22:20 IST" duration-ms="11551">
+      <class name="TestCaseRunner.a_SignInWithDetailsTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.a_SignInWithDetailsTC@729d991e]" started-at="2022-01-18T16:22:09 IST" name="intialize" finished-at="2022-01-18T16:22:11 IST" duration-ms="1808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Sign_In_With_Wrong_Details_TC(java.lang.String,java.lang.String)[pri:0, instance:TestCaseRunner.a_SignInWithDetailsTC@729d991e]" started-at="2022-01-18T16:22:11 IST" name="Sign_In_With_Wrong_Details_TC" data-provider="newdata" finished-at="2022-01-18T16:22:16 IST" duration-ms="5730" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yaduvanshi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ZilaGajiyabad]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_In_With_Wrong_Details_TC -->
+        <test-method signature="Sign_In_With_Wrong_Details_TC(java.lang.String,java.lang.String)[pri:0, instance:TestCaseRunner.a_SignInWithDetailsTC@729d991e]" started-at="2022-01-18T16:22:17 IST" name="Sign_In_With_Wrong_Details_TC" data-provider="newdata" finished-at="2022-01-18T16:22:20 IST" duration-ms="2673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tronner@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tronner1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sign_In_With_Wrong_Details_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.a_SignInWithDetailsTC@729d991e]" started-at="2022-01-18T16:22:20 IST" name="teardown" finished-at="2022-01-18T16:22:20 IST" duration-ms="79" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.a_SignInWithDetailsTC -->
+    </test> <!-- Sign In With Wrong Details -->
+    <test started-at="2022-01-18T16:22:20 IST" name="OutStation Car Booking With Round trip" finished-at="2022-01-18T16:22:33 IST" duration-ms="12924">
+      <class name="TestCaseRunner.b_OutstationCarBookingTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.b_OutstationCarBookingTC@6fdbe764]" started-at="2022-01-18T16:22:20 IST" name="intialize" finished-at="2022-01-18T16:22:25 IST" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Out_Station_CarBooking_TC()[pri:0, instance:TestCaseRunner.b_OutstationCarBookingTC@6fdbe764]" started-at="2022-01-18T16:22:25 IST" name="Out_Station_CarBooking_TC" finished-at="2022-01-18T16:22:33 IST" duration-ms="7699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Out_Station_CarBooking_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.b_OutstationCarBookingTC@6fdbe764]" started-at="2022-01-18T16:22:33 IST" name="teardown" finished-at="2022-01-18T16:22:33 IST" duration-ms="378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.b_OutstationCarBookingTC -->
+    </test> <!-- OutStation Car Booking With Round trip -->
+    <test started-at="2022-01-18T16:22:33 IST" name="Local Cab booking" finished-at="2022-01-18T16:22:44 IST" duration-ms="10974">
+      <class name="TestCaseRunner.c_LocalCarBookingTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.c_LocalCarBookingTC@25641d39]" started-at="2022-01-18T16:22:33 IST" name="intialize" finished-at="2022-01-18T16:22:38 IST" duration-ms="4317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Local_Car_Booking_TC()[pri:0, instance:TestCaseRunner.c_LocalCarBookingTC@25641d39]" started-at="2022-01-18T16:22:38 IST" name="Local_Car_Booking_TC" finished-at="2022-01-18T16:22:43 IST" duration-ms="5250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Local_Car_Booking_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.c_LocalCarBookingTC@25641d39]" started-at="2022-01-18T16:22:43 IST" name="teardown" finished-at="2022-01-18T16:22:44 IST" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.c_LocalCarBookingTC -->
+    </test> <!-- Local Cab booking -->
+    <test started-at="2022-01-18T16:22:44 IST" name="Airport Car Booking" finished-at="2022-01-18T16:23:25 IST" duration-ms="41056">
+      <class name="TestCaseRunner.d_AirportCarBookingTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.d_AirportCarBookingTC@4d154ccd]" started-at="2022-01-18T16:22:44 IST" name="intialize" finished-at="2022-01-18T16:22:45 IST" duration-ms="898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Airport_Car_Booking_TC(java.lang.String,java.lang.String,int)[pri:0, instance:TestCaseRunner.d_AirportCarBookingTC@4d154ccd]" started-at="2022-01-18T16:22:45 IST" name="Airport_Car_Booking_TC" data-provider="newdata" finished-at="2022-01-18T16:23:05 IST" duration-ms="20293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tronner]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tronner@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1224355047]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Airport_Car_Booking_TC -->
+        <test-method signature="Airport_Car_Booking_TC(java.lang.String,java.lang.String,int)[pri:0, instance:TestCaseRunner.d_AirportCarBookingTC@4d154ccd]" started-at="2022-01-18T16:23:06 IST" name="Airport_Car_Booking_TC" data-provider="newdata" finished-at="2022-01-18T16:23:25 IST" duration-ms="19355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Derick]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DerickOP@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1233444730]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Airport_Car_Booking_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.d_AirportCarBookingTC@4d154ccd]" started-at="2022-01-18T16:23:25 IST" name="teardown" finished-at="2022-01-18T16:23:25 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.d_AirportCarBookingTC -->
+    </test> <!-- Airport Car Booking -->
+    <test started-at="2022-01-18T16:23:25 IST" name="Featured In Validate" finished-at="2022-01-18T16:24:29 IST" duration-ms="63735">
+      <class name="TestCaseRunner.e_FeaturedInTestRunTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.e_FeaturedInTestRunTC@f09733f]" started-at="2022-01-18T16:23:25 IST" name="intialize" finished-at="2022-01-18T16:23:30 IST" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Featured_In_TC()[pri:0, instance:TestCaseRunner.e_FeaturedInTestRunTC@f09733f]" started-at="2022-01-18T16:23:30 IST" name="Featured_In_TC" finished-at="2022-01-18T16:24:28 IST" duration-ms="57836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Featured_In_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.e_FeaturedInTestRunTC@f09733f]" started-at="2022-01-18T16:24:29 IST" name="teardown" finished-at="2022-01-18T16:24:29 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.e_FeaturedInTestRunTC -->
+    </test> <!-- Featured In Validate -->
+    <test started-at="2022-01-18T16:24:29 IST" name="About Us Details Validate" finished-at="2022-01-18T16:24:37 IST" duration-ms="8116">
+      <class name="TestCaseRunner.f_AboutUsDetailsTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.f_AboutUsDetailsTC@1ffaf86]" started-at="2022-01-18T16:24:29 IST" name="intialize" finished-at="2022-01-18T16:24:35 IST" duration-ms="6295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="About_US_TC()[pri:0, instance:TestCaseRunner.f_AboutUsDetailsTC@1ffaf86]" started-at="2022-01-18T16:24:35 IST" name="About_US_TC" finished-at="2022-01-18T16:24:37 IST" duration-ms="1608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- About_US_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.f_AboutUsDetailsTC@1ffaf86]" started-at="2022-01-18T16:24:37 IST" name="teardown" finished-at="2022-01-18T16:24:37 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.f_AboutUsDetailsTC -->
+    </test> <!-- About Us Details Validate -->
+    <test started-at="2022-01-18T16:24:37 IST" name="Service One Way car Validate" finished-at="2022-01-18T16:24:49 IST" duration-ms="12011">
+      <class name="TestCaseRunner.g_ServiceOneWayTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.g_ServiceOneWayTC@368247b9]" started-at="2022-01-18T16:24:37 IST" name="intialize" finished-at="2022-01-18T16:24:42 IST" duration-ms="4322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Service_One_Way_TC()[pri:0, instance:TestCaseRunner.g_ServiceOneWayTC@368247b9]" started-at="2022-01-18T16:24:42 IST" name="Service_One_Way_TC" finished-at="2022-01-18T16:24:48 IST" duration-ms="6799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Service_One_Way_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.g_ServiceOneWayTC@368247b9]" started-at="2022-01-18T16:24:49 IST" name="teardown" finished-at="2022-01-18T16:24:49 IST" duration-ms="285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.g_ServiceOneWayTC -->
+    </test> <!-- Service One Way car Validate -->
+    <test started-at="2022-01-18T16:24:49 IST" name="Contact Us Details Validate" finished-at="2022-01-18T16:24:58 IST" duration-ms="9056">
+      <class name="TestCaseRunner.h_ContactUsTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.h_ContactUsTC@2e385cce]" started-at="2022-01-18T16:24:49 IST" name="intialize" finished-at="2022-01-18T16:24:54 IST" duration-ms="4703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Contact_US_TC()[pri:0, instance:TestCaseRunner.h_ContactUsTC@2e385cce]" started-at="2022-01-18T16:24:54 IST" name="Contact_US_TC" finished-at="2022-01-18T16:24:58 IST" duration-ms="3571" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Contact_US_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.h_ContactUsTC@2e385cce]" started-at="2022-01-18T16:24:58 IST" name="teardown" finished-at="2022-01-18T16:24:58 IST" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.h_ContactUsTC -->
+    </test> <!-- Contact Us Details Validate -->
+    <test started-at="2022-01-18T16:24:58 IST" name="Social media handle validate" finished-at="2022-01-18T16:25:17 IST" duration-ms="18402">
+      <class name="TestCaseRunner.i_SocialBloggerIconTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.i_SocialBloggerIconTC@26d9b808]" started-at="2022-01-18T16:24:58 IST" name="intialize" finished-at="2022-01-18T16:25:04 IST" duration-ms="5468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Social_Handle_Bloogger_TC()[pri:0, instance:TestCaseRunner.i_SocialBloggerIconTC@26d9b808]" started-at="2022-01-18T16:25:04 IST" name="Social_Handle_Bloogger_TC" finished-at="2022-01-18T16:25:16 IST" duration-ms="12244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Social_Handle_Bloogger_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.i_SocialBloggerIconTC@26d9b808]" started-at="2022-01-18T16:25:16 IST" name="teardown" finished-at="2022-01-18T16:25:17 IST" duration-ms="339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.i_SocialBloggerIconTC -->
+    </test> <!-- Social media handle validate -->
+    <test started-at="2022-01-18T16:25:17 IST" name="Car Rental In city validate" finished-at="2022-01-18T16:25:25 IST" duration-ms="8543">
+      <class name="TestCaseRunner.j_CarRentalInCityTC">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:TestCaseRunner.j_CarRentalInCityTC@2a265ea9]" started-at="2022-01-18T16:25:17 IST" name="intialize" finished-at="2022-01-18T16:25:22 IST" duration-ms="5014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method signature="Car_Rental_In_City_TC()[pri:0, instance:TestCaseRunner.j_CarRentalInCityTC@2a265ea9]" started-at="2022-01-18T16:25:22 IST" name="Car_Rental_In_City_TC" finished-at="2022-01-18T16:25:24 IST" duration-ms="2672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Car_Rental_In_City_TC -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestCaseRunner.j_CarRentalInCityTC@2a265ea9]" started-at="2022-01-18T16:25:25 IST" name="teardown" finished-at="2022-01-18T16:25:25 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCaseRunner.j_CarRentalInCityTC -->
+    </test> <!-- Car Rental In city validate -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,70 @@
+2022-01-18 16:22:16,137 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Url Opened Successfully
+2022-01-18 16:22:16,244 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Sign In Popup is Visible
+2022-01-18 16:22:16,551 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Details filled Successfully
+2022-01-18 16:22:16,865 - TestCaseRunner.a_SignInWithDetailsTC -WARN - Your email or password is wrong.
+2022-01-18 16:22:19,236 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Url Opened Successfully
+2022-01-18 16:22:19,380 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Sign In Popup is Visible
+2022-01-18 16:22:19,790 - TestCaseRunner.a_SignInWithDetailsTC -INFO - Details filled Successfully
+2022-01-18 16:22:20,188 - TestCaseRunner.a_SignInWithDetailsTC -WARN - Your email or password is wrong.
+2022-01-18 16:22:25,316 - TestCaseRunner.b_OutstationCarBookingTC -INFO - Url Opened Successfully
+2022-01-18 16:22:25,392 - TestCaseRunner.b_OutstationCarBookingTC -INFO - RoundTrip Check Box checked
+2022-01-18 16:22:26,341 - TestCaseRunner.b_OutstationCarBookingTC -INFO - From City Data is read from Excel File
+2022-01-18 16:22:28,523 - TestCaseRunner.b_OutstationCarBookingTC -INFO - To City Data is read from Excel File
+2022-01-18 16:22:31,715 - TestCaseRunner.b_OutstationCarBookingTC -INFO - PickUp Time is selected
+2022-01-18 16:22:31,876 - TestCaseRunner.b_OutstationCarBookingTC -INFO - Car details Summited Successfully
+2022-01-18 16:22:33,011 - TestCaseRunner.b_OutstationCarBookingTC -INFO - Car selected sucessfully
+2022-01-18 16:22:38,144 - TestCaseRunner.c_LocalCarBookingTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:22:38,356 - TestCaseRunner.c_LocalCarBookingTC -INFO - Local Cab selected Successfully
+2022-01-18 16:22:38,559 - TestCaseRunner.c_LocalCarBookingTC -INFO - From City Name is read from excel Sheet
+2022-01-18 16:22:41,781 - TestCaseRunner.c_LocalCarBookingTC -INFO - PickUp Date is selected Successfully
+2022-01-18 16:22:42,097 - TestCaseRunner.c_LocalCarBookingTC -INFO - Pickup Time is Selected Successfully
+2022-01-18 16:22:42,252 - TestCaseRunner.c_LocalCarBookingTC -INFO - Details Summited Sucessfully
+2022-01-18 16:22:42,907 - TestCaseRunner.c_LocalCarBookingTC -INFO - Hour per KM Changed
+2022-01-18 16:22:43,232 - TestCaseRunner.c_LocalCarBookingTC -INFO - Car is selected Successfully
+2022-01-18 16:22:43,379 - TestCaseRunner.c_LocalCarBookingTC -INFO - Title is Validated Successfully
+2022-01-18 16:22:48,500 - TestCaseRunner.d_AirportCarBookingTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:22:48,691 - TestCaseRunner.d_AirportCarBookingTC -INFO - Airport Box is selcted
+2022-01-18 16:22:48,884 - TestCaseRunner.d_AirportCarBookingTC -INFO - From City Name is read from excel Sheet
+2022-01-18 16:22:53,325 - TestCaseRunner.d_AirportCarBookingTC -INFO - PickUp Location is Selected
+2022-01-18 16:23:00,570 - TestCaseRunner.d_AirportCarBookingTC -INFO - Pickup Time is Selected Successfully
+2022-01-18 16:23:02,874 - TestCaseRunner.d_AirportCarBookingTC -INFO - Details Summited Sucessfully
+2022-01-18 16:23:03,694 - TestCaseRunner.d_AirportCarBookingTC -INFO - Car is selected Successfully
+2022-01-18 16:23:04,135 - TestCaseRunner.d_AirportCarBookingTC -INFO - Login Details Filled
+2022-01-18 16:23:04,209 - TestCaseRunner.d_AirportCarBookingTC -INFO - Whatsapp CheckBox UnChecked
+2022-01-18 16:23:04,286 - TestCaseRunner.d_AirportCarBookingTC -INFO - Details Summited Successfully
+2022-01-18 16:23:04,286 - TestCaseRunner.d_AirportCarBookingTC -ERROR - 1224355047  Wrong Phone number is summited successfully
+2022-01-18 16:23:08,078 - TestCaseRunner.d_AirportCarBookingTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:23:08,246 - TestCaseRunner.d_AirportCarBookingTC -INFO - Airport Box is selcted
+2022-01-18 16:23:08,413 - TestCaseRunner.d_AirportCarBookingTC -INFO - From City Name is read from excel Sheet
+2022-01-18 16:23:13,092 - TestCaseRunner.d_AirportCarBookingTC -INFO - PickUp Location is Selected
+2022-01-18 16:23:20,285 - TestCaseRunner.d_AirportCarBookingTC -INFO - Pickup Time is Selected Successfully
+2022-01-18 16:23:22,611 - TestCaseRunner.d_AirportCarBookingTC -INFO - Details Summited Sucessfully
+2022-01-18 16:23:23,224 - TestCaseRunner.d_AirportCarBookingTC -INFO - Car is selected Successfully
+2022-01-18 16:23:23,785 - TestCaseRunner.d_AirportCarBookingTC -INFO - Login Details Filled
+2022-01-18 16:23:23,838 - TestCaseRunner.d_AirportCarBookingTC -INFO - Whatsapp CheckBox UnChecked
+2022-01-18 16:23:23,919 - TestCaseRunner.d_AirportCarBookingTC -INFO - Details Summited Successfully
+2022-01-18 16:23:23,919 - TestCaseRunner.d_AirportCarBookingTC -ERROR - 1233444730  Wrong Phone number is summited successfully
+2022-01-18 16:23:30,863 - TestCaseRunner.e_FeaturedInTestRunTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:23:30,958 - TestCaseRunner.e_FeaturedInTestRunTC -INFO - Indian Express Icon is selcted
+2022-01-18 16:24:28,557 - TestCaseRunner.e_FeaturedInTestRunTC -INFO - Page Heading varified
+2022-01-18 16:24:35,905 - TestCaseRunner.f_AboutUsDetailsTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:24:35,998 - TestCaseRunner.f_AboutUsDetailsTC -INFO - About us is selcted
+2022-01-18 16:24:37,506 - TestCaseRunner.f_AboutUsDetailsTC -INFO - CEO Name is Varified Successfully
+2022-01-18 16:24:42,065 - TestCaseRunner.g_ServiceOneWayTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:24:42,239 - TestCaseRunner.g_ServiceOneWayTC -INFO - Airport Box is selcted
+2022-01-18 16:24:45,776 - TestCaseRunner.g_ServiceOneWayTC -INFO - The Trip route is Selected
+2022-01-18 16:24:48,801 - TestCaseRunner.g_ServiceOneWayTC -INFO - Window is switched
+2022-01-18 16:24:48,853 - TestCaseRunner.g_ServiceOneWayTC -INFO - Trip Route Varified Successfully
+2022-01-18 16:24:54,464 - TestCaseRunner.h_ContactUsTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:24:54,628 - TestCaseRunner.h_ContactUsTC -INFO - Window is Switched
+2022-01-18 16:24:57,863 - TestCaseRunner.h_ContactUsTC -INFO - Mail ID is printed Successfully
+2022-01-18 16:24:57,950 - TestCaseRunner.h_ContactUsTC -INFO - Phone Number is printed Successfully
+2022-01-18 16:24:58,031 - TestCaseRunner.h_ContactUsTC -INFO - Address is printed Successfully
+2022-01-18 16:25:04,314 - TestCaseRunner.i_SocialBloggerIconTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:25:04,450 - TestCaseRunner.i_SocialBloggerIconTC -INFO - Blogger Icon is clicked Successfully
+2022-01-18 16:25:13,421 - TestCaseRunner.i_SocialBloggerIconTC -INFO - Travel guide is Selected
+2022-01-18 16:25:16,504 - TestCaseRunner.i_SocialBloggerIconTC -INFO - Pondicherry Blog is Selected
+2022-01-18 16:25:22,269 - TestCaseRunner.j_CarRentalInCityTC -INFO - Driver Initialized Sucessfully and Url opened Succesfully
+2022-01-18 16:25:22,381 - TestCaseRunner.j_CarRentalInCityTC -INFO - City Location Option is Selected
+2022-01-18 16:25:24,002 - TestCaseRunner.j_CarRentalInCityTC -INFO - City is Selected
+2022-01-18 16:25:24,851 - TestCaseRunner.j_CarRentalInCityTC -INFO - Travel Guide Option is Selected

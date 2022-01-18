@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+     <listener class-name="TestCaseRunner.Listners"/>
+     <listener class-name="Resources.ExtentReporterNG"/>
+     
+</listeners>
+
+  <test  name="Sign In With Wrong Details">
+    <classes>
+      <class name="TestCaseRunner.a_SignInWithDetailsTC"/>      
+    </classes>
+  </test>
+
+ 
+  <test  name="OutStation Car Booking With Round trip">
+    <classes>
+      <class name="TestCaseRunner.b_OutstationCarBookingTC"/>
+      </classes>
+  </test>
+  
+  
+  <test  name="Local Cab booking">
+    <classes>
+      <class name="TestCaseRunner.c_LocalCarBookingTC"/>
+    </classes>
+  </test>
+  
+  
+  <test  name="Airport Car Booking">
+    <classes>     
+      <class name="TestCaseRunner.d_AirportCarBookingTC"/>
+    </classes>
+  </test>
+  
+  
+   <test  name="Featured In Validate">
+    <classes>
+      <class name="TestCaseRunner.e_FeaturedInTestRunTC"/> 
+    </classes>
+  </test> 
+ 
+   <test  name="About Us Details Validate">
+    <classes>
+      <class name="TestCaseRunner.f_AboutUsDetailsTC"/> 
+    </classes>
+  </test>
+  
+  
+  <test  name="Service One Way car Validate">
+    <classes>
+      <class name="TestCaseRunner.g_ServiceOneWayTC"/> 
+    </classes>
+  </test>
+  
+  <test  name="Contact Us Details Validate">
+    <classes>
+      <class name="TestCaseRunner.h_ContactUsTC"/> 
+    </classes>
+  </test>
+  
+  <test  name="Social media handle validate">
+    <classes>
+      <class name="TestCaseRunner.i_SocialBloggerIconTC"/> 
+    </classes>
+  </test>
+  
+  <test  name="Car Rental In city validate">
+    <classes>
+      <class name="TestCaseRunner.j_CarRentalInCityTC"/> 
+    </classes>
+  </test>
+</suite> 
